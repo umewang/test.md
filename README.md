@@ -25,7 +25,7 @@ Hello,world!
 **插入图片** 
 
 找不到可用的公司Logo，所以随便找了张
-![example](http://img1.imgtn.bdimg.com/it/u=1100365265,1252235120&fm=27&gp=0.jpg)
+![example](https://raw.githubusercontent.com/umewang/test.md/master/example.jpg)
 
 ---
 #语法参考说明
